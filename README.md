@@ -1,2 +1,4 @@
 # FutureProductPrices
-Predict Future Product Prices using Facebook Prophet
+Predict Future Product Prices using Facebook Prophet.
+Implemented Time Series Forecasting Model.
+Predict Future Average Price of Avocado in US and regionwise.
